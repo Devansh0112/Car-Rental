@@ -73,6 +73,9 @@ AutoWiz boasts a comprehensive and modular project structure that includes:
 1. **Listing Management Flow**: Admins can add, edit, and delete car listings.
 2. **Booking Management Flow**: Admins can view and manage all user bookings.
 
+### You can access the hosted version here
+https://autowhiz-frontend.vercel.app/
+
 ## Dependencies
 
 - **Libraries**:
